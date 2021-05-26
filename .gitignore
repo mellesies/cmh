@@ -1,0 +1,10 @@
+# Python egg metadata, regenerated from source files by setuptools.
+*.pyc
+*.egg-info
+*.egg
+
+# Setuptools folders.
+/dist/
+/build/
+
+.venv
