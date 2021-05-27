@@ -1,8 +1,12 @@
-# CMH
+# CMH: the Cochran-Mantel-Haenzsel Chi2 Test
 Implementation of the Cochran-Mantel-Haenzsel Chi2 Test, based on/ported from
 "Categorical Data Analysis", page 295 by Agresti (2002) and `R` implementation
 of the function `mantelhaen.test()`.
 
+# Installation
+```bash
+pip install cmh
+```
 
 # Usage
 ````python
